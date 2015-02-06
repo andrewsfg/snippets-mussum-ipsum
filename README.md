@@ -1,4 +1,4 @@
-Sublime Text 2 - Snippets - Mussum Ipsum
+Sublime Text 2 ou 3 - Snippets - Mussum Ipsum
 ========================================
 
 Baseado no trabalho do site http://mussumipsum.com/
